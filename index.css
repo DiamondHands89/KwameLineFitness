@@ -1,0 +1,90 @@
+body{
+    background-color: grey;
+}
+
+.LOGO{
+    border: solid black;
+    height: auto;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.navbar1{
+    border: solid yellow;
+    height: auto;
+}
+
+#SearchBar{
+    border-radius: 5px;
+    width: 85%;
+    margin: 0;
+    padding-left: 10px;
+}
+
+#SearchButton{
+    border-radius: 5px;
+    margin-right: auto;
+    width: auto;
+    margin: 0;
+}
+
+.intro{
+    border: solid white;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.cardio1{
+    border: solid red;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.strength1{
+    border: solid blue;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.diet1{
+    border: solid green;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.flex1{
+    border: solid brown;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.fun1{
+    border: solid purple;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.MainPics{
+    justify-content: center;
+    height: 400px;
+    width: 400px;
+    border-radius: 400px;
+}
