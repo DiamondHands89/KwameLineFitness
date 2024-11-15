@@ -9,6 +9,19 @@ body{
     padding-left: 20px;
 }
 
+.menu{
+    border: solid orange;
+    height: auto;
+    
+}
+
+.links{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .navbar1{
     border: solid yellow;
     height: auto;
